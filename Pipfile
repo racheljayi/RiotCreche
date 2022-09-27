@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 joblib = "*"
 sklearn = "*"
+streamlit = "*"
 
 [dev-packages]
 
